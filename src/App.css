@@ -1,0 +1,13 @@
+@import url("./fonts/fonts.css");
+
+#root {
+  background-color: #333333;
+  max-width: 100%;
+  min-height: 100vh;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  box-sizing: border-box;
+  padding-top: 29px;
+  color: #ffffff;
+}
