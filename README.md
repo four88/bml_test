@@ -18,3 +18,9 @@ Starting with clone this reposity then run below commands
 ```bash
   npm install
 ```
+
+run the project
+
+```bash
+  npm run dev
+```
